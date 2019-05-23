@@ -1,2 +1,3 @@
 #!/bin/bash
-echo hehe
+echo hehe.bak
+echo new = 1
